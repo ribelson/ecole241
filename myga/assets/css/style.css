@@ -1,0 +1,50 @@
+body{ margin:  0; padding: 0;
+font-family: arial}
+header{
+	width: 100%;
+	background-image: url(../img/fond-header.png);
+	height: 200px;
+	}
+.trait{
+	position: relative;
+	top: 150px;
+	}
+.embleme{
+	text-align: center;
+	padding-top: 30px;
+	}	
+.bande_y{
+	width: auto;
+	text-align: center;
+	padding: 10px;
+	background-color: #fffd1a;
+	/*
+	background-color: 
+	*/
+	}
+.jaune2{
+	width: auto;
+	height: 50px;
+	background-color: #fffd1a;
+	}
+.bg{
+	width: auto;
+	height: 300px;
+	background-image: url(../img/stade.jpg);
+}
+.blanc{
+	background-color: white;
+	width: 400px;
+	height: 100px;
+	position: relative;
+	left: 100px;
+	bottom: 320px;
+	padding-top: 5px}
+@font-face{font-family: "font";
+src:url("../fonts/Comfortaa-Light.ttf");}
+.ga{
+	position: relative;
+	left: 930px;
+	bottom: 200px;
+	top: -100px;
+
