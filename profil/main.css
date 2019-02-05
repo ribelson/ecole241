@@ -202,8 +202,8 @@ footer{
 text-align: center;
 margin-top: -1px;
 }
-.fab fa-facebook-square:hover {
-      background:#cccc66;
+.fab:hover {
+      color:#ffcc33;
   }
 .wrapcase{
   width: 80%;
