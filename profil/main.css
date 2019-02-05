@@ -202,6 +202,9 @@ footer{
 text-align: center;
 margin-top: -1px;
 }
+.icons:hover {
+      background:#cccc66;
+  }
 .wrapcase{
   width: 80%;
   height: 1000px;
